@@ -1,0 +1,14 @@
+TracUserfunk
+
+Adds user related Wiki Macros
+
+Usage:
+
+[[Username]] - Displays the authenticated users login
+[[Userlist]] - Displays a list of users with their names, email, time of last login and the elapsed time since their last login.
+
+Supports the AccountManager plugin.
+The plugin will use the account manager to fetch a list of users
+along with some of their info, if it's available.
+
+
